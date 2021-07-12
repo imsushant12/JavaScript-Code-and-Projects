@@ -19,7 +19,7 @@ This repository contains various JavaScript based Projects and uses of its metho
 ## Projects :
 - [Color and Audio Changer](Color_Changer_Project/)
 - [DOM Manipulation Example Project](DOM_Selectors/)
-- [Visitors Count Project](Visitor_Count_Project/)
+- [Visitors Count Project](Visitors_Count_Project/)
 
 
 
