@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation Example</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 500;
+        }
+
+        section {
+            border: 2.5px dashed blue;
+        }
+
+        .one {
+            display: flex;
+            justify-content: center;
+        }
+
+        .two {
+            display: flex;
+            justify-content: center;
+        }
+
+        button {
+            margin-left: 25px;
+        }
+
+        button:hover {
+            color: blue;
+            background: hotpink;
+            transition: 3s ease-out;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <p>Below is just a basic example and difference between :
+        <ul>
+            <li>document.getElementById()</li>
+
+            <li>
+                document.getElementsByClassName()
+
+                <ul>
+                    <li>Note that we need to use <b>variableName[0].methodName</b>, because it returns an array.</li>
+                </ul>
+            </li>
+        </ul>
+        </p>
+    </div>
+
+    <section>
+        <div class="one">First button with class : one and ID : first
+            <button id="first">
+                Click Me
+            </button>
+        </div>
+
+        <hr color="white">
+
+        <div class="two">First button with class : two and ID : second
+            <button id="second">
+                Click Me
+            </button>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+
+</html>
