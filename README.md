@@ -19,6 +19,7 @@ This repository contains various JavaScript based Projects and uses of its metho
 ## Projects :
 - [Color and Audio Changer](Color_Changer_Project/)
 - [DOM Manipulation Example Project](DOM_Selectors/)
+- [Rock Paper Scissors Game](Rock_Paper_Scissors/)
 - [Visitors Count Project](Visitors_Count_Project/)
 
 
