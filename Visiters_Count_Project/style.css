@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgb(66, 66, 66);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 44px;
+  text-align: center;
+  color: aliceblue;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+.description {
+  transition: 0.9s ease-in-out;
+}
