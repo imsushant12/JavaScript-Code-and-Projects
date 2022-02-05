@@ -11,9 +11,12 @@ This repository contains various JavaScript based Projects and uses of its metho
 - [Call Back Function Example](callBacks.js)
 - [Create Simple User Form](userForm.js)
 - [For Each Loop](for-Each_Loop.js)
-- [For In Loop](for-In_and_for-Of.js)
-- [For Of Loop](for-In_and_for-Of.js)
+- [For In and For of Loop](for-In_and_for-Of.js)
+- [Getters and Setters (use and calling)](getters_and_setters.js)
 - [How to use Objects and its methods](objectMethods.js)
+- [Sorting with different prototype functions](sorting.js)
+- [Spread and Rest Operator](Spread_and_Rest.js)
+- [This keyword with Object and functions](this_keyword.js)
 
 
 ## Projects :
