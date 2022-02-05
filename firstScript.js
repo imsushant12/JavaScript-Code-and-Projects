@@ -1,1 +1,0 @@
-console.log("Hello JavaScript! This is Sushant and the current date and time is : " , new Date);
